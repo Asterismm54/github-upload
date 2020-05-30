@@ -1,4 +1,4 @@
-**BSDCan About**
+*BSDCan About*
 
 **What is BSDCan?**
 
@@ -15,8 +15,10 @@ More info at: https://www.bsdcan.org/2020/
 •	Tutorials: 3-4 June 2020 (Wed/Thu)
 •	Conference: 5-6 June 2020 (Fri/Sat)
 
-**All events will be streamed online: 
+**All events will be streamed online:** 
 Stream 1:  https://www.bsdcan.org/2020/stream1.php
+
 Stream 2:  https://www.bsdcan.org/2020/stream2.php
+
 Stream 3:  https://www.bsdcan.org/2020/stream3.php
 
